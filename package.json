@@ -6,6 +6,7 @@
     "start": "ng serve",
     "start:prod": "ng build --prod && lite-server --baseDir dist/vp-pwa",
     "build": "ng build",
+    "deploy": "ng build --prod && firebase deploy",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
