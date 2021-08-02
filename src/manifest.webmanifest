@@ -7,6 +7,12 @@
   "scope": "./",
   "start_url": "./",
   "icons": [
+  {
+      "src": "assets/icons/vp_small.png",
+      "sizes": "40x40",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
     {
       "src": "assets/icons/icon-72x72.png",
       "sizes": "72x72",
